@@ -7,10 +7,10 @@ export function AboutSection() {
       <div className="container mx-auto px-4">
         <div className="max-w-4xl mx-auto text-center mb-16">
           <h2 className="text-4xl md:text-5xl font-bold mb-6 text-foreground">
-            About <span className="text-primary">Nepal TeK Community</span>
+            About <span className="text-primary">Nepal Tek Community</span>
           </h2>
           <p className="text-lg text-muted-foreground text-pretty leading-relaxed">
-            Nepal TeK Community (NTC) is a vibrant student-led organization at NCIT, Nepal, dedicated to fostering
+            Nepal Tek Community (NTC) is a vibrant student-led organization at NCIT, Nepal, dedicated to fostering
             innovation, collaboration, and technological excellence among students. We believe in the power of
             community-driven learning and the potential of young minds to shape the future of technology.
           </p>

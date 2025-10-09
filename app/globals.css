@@ -4,7 +4,7 @@
 @custom-variant dark (&:is(.dark *));
 
 :root {
-  /* Updated color scheme for Nepal TeK Community brand */
+  /* Updated color scheme for Nepal Tek Community brand */
   --background: #f0f4f8;
   --foreground: #1e293b;
   --card: rgba(255, 255, 255, 0.8);
