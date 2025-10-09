@@ -10,7 +10,7 @@ export function AboutSection() {
             About <span className="text-primary">Nepal Tek Community</span>
           </h2>
           <p className="text-lg text-muted-foreground text-pretty leading-relaxed">
-            Nepal Tek Community (NTC) is a vibrant student-led organization at NCIT, Nepal, dedicated to fostering
+            Nepal Tek Community (NTK) is a vibrant student-led organization at NCIT, Nepal, dedicated to fostering
             innovation, collaboration, and technological excellence among students. We believe in the power of
             community-driven learning and the potential of young minds to shape the future of technology.
           </p>

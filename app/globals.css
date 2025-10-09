@@ -125,7 +125,7 @@
   }
 }
 
-/* Added custom gradient utilities for NTC design */
+/* Added custom gradient utilities for NTK design */
 @layer utilities {
   .gradient-primary {
     background: linear-gradient(135deg, #057ac0, #094671);
