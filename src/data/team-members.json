@@ -178,25 +178,5 @@
       "Developed automation solutions for community use"
     ],
     "skills": ["Embedded Systems", "IoT", "Automation", "Hardware-Software Integration"]
-  },
-  {
-    "id": "madan-belbase",
-    "name": "Madan Belbase",
-    "role": "Executive Member",
-    "image": "/images/team/gaurab.jpg",
-    "bio": "Passionate about automation and embedded systems, creating efficient hardware-software solutions.",
-    "fullBio": "Madan Belbase is an Executive Member who contributes to the community through his technical expertise and collaborative spirit. He actively participates in community events and helps organize technical workshops.\n\nHis commitment to the community's mission and his willingness to support fellow members make him a valued team member. Madan is always ready to lend a hand, whether it's helping debug code, setting up for events, or brainstorming new ideas.\n\nHe believes in the power of community and collaboration to drive innovation and create opportunities for all members.",
-    "social": {
-      "github": "https://github.com/Gauravjoshi08X",
-      "linkedin": "https://www.linkedin.com/in/gaurav-joshi-a6b884342",
-      "website": "#"
-    },
-    "achievements": [
-      "Supported multiple technical workshops",
-      "Contributed to community projects",
-      "Assisted in event organization",
-      "Mentored students in technical skills"
-    ],
-    "skills": ["Technical Support", "Event Assistance", "Collaboration", "Problem Solving"]
   }
 ]
